@@ -1,6 +1,6 @@
 # Bird song detection
 
-My bachelor thesis at Charles University (2021). A desktop tool that finds bird song in long field recordings. Researchers label a few recordings, train a neural network, and let it mark the rest.
+My bachelor thesis at Charles University. A desktop tool that finds bird song in long field recordings. Researchers label a few recordings, train a neural network, and let it mark the rest.
 
 <!-- TODO: link the thesis PDF and add one result, e.g. precision and recall on the test set. -->
 
