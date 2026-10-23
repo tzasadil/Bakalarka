@@ -26,7 +26,7 @@ python GUI.py
 3. Click `Train model`.
 4. Click `Apply model on data`, then pick the recordings to scan.
 
-Extraction can take hours on an HDD, and the window freezes while it works. `Manual.txt` has more usage notes.
+Extraction can take hours on an HDD, and the window freezes while it works.
 
 ## Code map
 
